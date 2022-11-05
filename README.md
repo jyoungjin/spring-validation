@@ -11,8 +11,11 @@
 5. BindingResult
 6. FieldError, ObjectError 
 7. 오류 코드와 메시지 처리 
-8. Validator 분리 
-9. 정리
+8. Validator 분리
+9. Bean Validation
+10. Form 전송 객체 분리
+11. Bean Validation - HTTP 메시지 컨버터
+12. 정리
 
 ----
 
